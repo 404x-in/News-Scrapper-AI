@@ -1,0 +1,22 @@
+
+> frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.115:3000
+
+✓ Starting...
+✓ Ready in 610ms
+ GET / 200 in 355ms (compile: 286ms, render: 70ms)
+ GET / 200 in 50ms (compile: 3ms, render: 47ms)
+ GET / 200 in 14ms (compile: 1836µs, render: 12ms)
+ GET /headlines 200 in 27ms (compile: 17ms, render: 11ms)
+ GET /headlines?search=ukaraine+war 200 in 20ms (compile: 5ms, render: 15ms)
+ GET /headlines?search=iran+war 200 in 12ms (compile: 3ms, render: 9ms)
+ GET /about 200 in 40ms (compile: 31ms, render: 9ms)
+ GET /news/world 200 in 343ms (compile: 335ms, render: 8ms)
+ GET /headlines?search=iran+war 200 in 9ms (compile: 2ms, render: 7ms)
+ GET /news/business 200 in 26ms (compile: 9ms, render: 17ms)
+ GET / 200 in 9ms (compile: 3ms, render: 6ms)
+ GET /headlines 200 in 6ms (compile: 952µs, render: 5ms)
